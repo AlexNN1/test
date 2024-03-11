@@ -1,0 +1,5 @@
+---
+mysql_root_password: "root"
+http_host: "runner.local"
+http_conf: "runner_local.conf"
+http_port: "80"
